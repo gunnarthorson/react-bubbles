@@ -97,3 +97,19 @@ form {
     margin-top: 16px;
   }
 }
+
+.wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+
+}
+
+.abra {
+  height: 60vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
